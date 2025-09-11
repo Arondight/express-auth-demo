@@ -32,7 +32,7 @@
     "update": "npx ncu -u; npm update"
   },
   "dependencies": {
-    "@vitejs/plugin-vue": "4.2.3",
+    "@vitejs/plugin-vue": "4.6.2",
     "axios": "1.8.2",
     "body-parser": "1.20.3",
     "compression": "1.7.4",
@@ -49,7 +49,7 @@
     "morgan": "1.10.0",
     "unplugin-auto-import": "0.16.6",
     "unplugin-vue-components": "0.25.1",
-    "vite": "4.5.10",
+    "vite": "7.1.5",
     "vue": "3.3.4",
     "vue-router": "4.2.4"
   },
