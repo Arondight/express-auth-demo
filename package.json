@@ -32,8 +32,8 @@
     "update": "npx ncu -u; npm update"
   },
   "dependencies": {
-    "@vitejs/plugin-vue": "4.6.2",
-    "axios": "1.8.2",
+    "@vitejs/plugin-vue": "4.2.3",
+    "axios": "1.12.0",
     "body-parser": "1.20.3",
     "compression": "1.8.1",
     "connect-history-api-fallback": "2.0.0",
